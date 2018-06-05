@@ -6,7 +6,7 @@
   },
   "artifacts": {
     "type": "S3",
-    "location": "doa17-{graciela}",
+    "location": "doa17-graciela",
     "packaging": "ZIP",
     "name": "WebAppOutputArtifact.zip"
   },
